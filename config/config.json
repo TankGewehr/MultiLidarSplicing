@@ -1,0 +1,12 @@
+{
+    "calibration_params_path":{
+        "lidar_front_left":"./config/sensors/rslidar_front_left.json",
+        "lidar_front_middle":"./config/sensors/rslidar_front_middle.json",
+        "lidar_front_right":"./config/sensors/rslidar_front_right.json",
+        "lidar_rear_left":"./config/sensors/rslidar_rear_left.json",
+        "lidar_rear_middle":"./config/sensors/rslidar_rear_middle.json",
+        "lidar_rear_right":"./config/sensors/rslidar_rear_right.json"
+    },
+    "frame_id":"map",
+    "publish_topic":"/rslidar_points"
+}

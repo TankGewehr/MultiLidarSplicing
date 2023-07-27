@@ -1,0 +1,22 @@
+{
+   "channel" : "/rslidar_points/front_left",
+   "distortion" : [],
+   "image_size" : [],
+   "intrinsic" : [],
+   "modality" : "lidar",
+   "rotation" : [
+      0.50550538301467896,
+      -0.86280268430709839,
+      0.005978158675134182,
+      0.86281919479370117,
+      0.50546926259994507,
+      -0.0066154147498309612,
+      0.0026860220823436975,
+      0.0085021983832120895,
+      0.99996024370193481
+   ],
+   "target" : "/rslidar_points/front_middle",
+   "translation" : [ -0.069478496909141541, 0.49454802274703979, -0.11279252171516418 ],
+   "undistort_distortion" : [],
+   "undistort_intrinsic" : []
+}

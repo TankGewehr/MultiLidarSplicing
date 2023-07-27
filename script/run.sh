@@ -1,0 +1,1 @@
+./bin/main ./config/config.json

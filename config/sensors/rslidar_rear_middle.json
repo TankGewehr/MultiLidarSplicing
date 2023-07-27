@@ -1,0 +1,22 @@
+{
+   "channel" : "/rslidar_points/rear_middle",
+   "distortion" : [],
+   "image_size" : [],
+   "intrinsic" : [],
+   "modality" : "lidar",
+   "rotation" : [
+      0.50275534391403198,
+      -0.8643983006477356,
+      0.0072437198832631111,
+      0.86441886425018311,
+      0.50277191400527954,
+      0.00054754561278969049,
+      -0.0041152369230985641,
+      0.0059863273054361343,
+      0.99997353553771973
+   ],
+   "target" : "/rslidar_points/rear_left",
+   "translation" : [ -0.36356872320175171, 0.27561306953430176, 0.25169816613197327 ],
+   "undistort_distortion" : [],
+   "undistort_intrinsic" : []
+}

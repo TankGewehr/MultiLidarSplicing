@@ -1,0 +1,26 @@
+{
+    "channel": "/rslidar_points/front_middle",
+    "modality": "lidar",
+    "image_size": [],
+    "intrinsic": [],
+    "distortion": [],
+    "undistort_intrinsic": [],
+    "undistort_distortion": [],
+    "target": "vehicle",
+    "rotation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "translation": [
+        0.0,
+        0.0,
+        0.0
+    ]
+}
