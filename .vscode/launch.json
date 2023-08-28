@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name":"MultiLidarSplicing(gdp)启动",
+            "name":"MultiLidarSplicing(gdb)启动",
             "type": "cppdbg",
             "request": "launch",
             "program": "${workspaceRoot}/bin/MultiLidarSplicing",
